@@ -6,4 +6,4 @@ The dataset used in my analysis came directly from the creators of the app with 
 
 I am in no way affiliated with the Flok app. This project was done entirely for educational purposes. 
 
-For more information on this project, visit www.matt-white.work
+
